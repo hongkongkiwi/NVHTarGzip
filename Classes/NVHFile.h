@@ -7,6 +7,7 @@
 //
 
 #import <Foundation/Foundation.h>
+@import CoreGraphics;
 
 @interface NVHFile : NSObject
 /** Using a small maximum total unit count instead of using self.fileSize
